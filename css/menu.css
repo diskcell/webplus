@@ -9,7 +9,7 @@
     align-items: center;
     list-style: none;
     position: fixed;
-    background: var(--color2);
+    background: var(--color3);
     padding: 25px 20px;
     z-index: 1000;
 }
